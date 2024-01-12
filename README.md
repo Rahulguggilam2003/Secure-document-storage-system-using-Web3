@@ -1,7 +1,7 @@
 
 # Secure-document-storage-system-using-Web3
 
-**This project is an extended version of @HydraPhyzer Decentralized-Google-Drive with extra security to the files** 
+**This project is an extended version of [@HydraPhyzer](https://github.com/HydraPhyzer) Decentralized-Google-Drive with extra security to the files** 
 
 
 # Points to remember
