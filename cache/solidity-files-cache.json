@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\vasug\\Desktop\\project\\Decentralized-Google-Drive-master\\Contracts\\Drive.sol": {
+      "lastModificationDate": 1696324392869,
+      "contentHash": "06d002245c9c51472e5c3b98ebdf0ac6",
+      "sourceName": "Contracts/Drive.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.0 <=0.9.0"
+      ],
+      "artifacts": [
+        "Drive"
+      ]
+    }
+  }
+}
