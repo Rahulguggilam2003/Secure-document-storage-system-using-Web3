@@ -6,7 +6,7 @@
 
 # Points to remember
 
-**Use node version 18.17.1 LTS**
+**Use node version 18.17.1 LTS**<br>
 **Create an account in Pinata copy the key requirements and save it in another file for further use**<br>
 **You need to enter the required pinata content in the .env files** <br>
 **While creating an API key in Pinata don't forget to turn off the Limit Max Uses**
