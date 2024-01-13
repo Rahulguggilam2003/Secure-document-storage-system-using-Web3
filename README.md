@@ -9,7 +9,7 @@
 **Use node version 18.17.1 LTS**<br>
 **Create an account in Pinata copy the key requirements and save it in another file for further use**<br>
 **You need to enter the required pinata content in the .env files** <br>
-**While creating an API key in Pinata don't forget to turn off the Limit Max Uses**
+**While creating an API key in Pinata don't forget to turn off the Limit Max Uses** <br>
 **Install meta mask in the browser in which you want to run the application and add a custom network in it to your local hardhat blockchain**
 
 # Process involved in adding a network manually in meta mask
