@@ -15,8 +15,8 @@ app.post('/send-email', async (req, res) => {
   const { recipientEmail, message } = req.body;
 
   // Replace these credentials with your actual email and password
-  const emailUser = 'rahulguggilam2003@gmail.com';
-  const emailPass = 'ervougapgxgigujs';
+  const emailUser = 'youremail';
+  const emailPass = 'yourpasscode';
 
   // Set up nodemailer with your email service credentials
   const transporter = nodemailer.createTransport({
